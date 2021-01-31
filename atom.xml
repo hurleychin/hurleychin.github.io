@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hurleychin.github.io</id>
     <title>不疯魔的技术博客</title>
-    <updated>2021-01-31T07:41:25.109Z</updated>
+    <updated>2021-01-31T07:42:21.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hurleychin.github.io"/>
     <link rel="self" href="https://hurleychin.github.io/atom.xml"/>
@@ -16,14 +16,9 @@
         <link href="https://hurleychin.github.io/post/git-chang-yong-ming-ling/">
         </link>
         <updated>2021-01-31T04:31:43.000Z</updated>
-        <summary type="html"><![CDATA[<p>查看分支</p>
-<pre><code class="language-bash">$ git branch [-a] [查看远程分支]
-</code></pre>
-]]></summary>
         <content type="html"><![CDATA[<p>查看分支</p>
 <pre><code class="language-bash">$ git branch [-a] [查看远程分支]
 </code></pre>
-<!-- more -->
 <p>切换分支</p>
 <pre><code class="language-bash">$ git checkout 8.5.x
 </code></pre>
